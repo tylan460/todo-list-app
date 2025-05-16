@@ -23,4 +23,23 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    border-radius: 20px;
+}
+
+.input-wrapper{
+    display: flex;
+    justify-content: space-between;
+    border-color: blue;
+    border-style: solid;
+
+
+}
+
+.add-button{
+    cursor: pointer;
+}
+
+.search-bar{
+    border: none;
+    flex: 1;
 }
