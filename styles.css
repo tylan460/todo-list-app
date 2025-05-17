@@ -56,3 +56,15 @@ body{
 
 
 }
+
+.total-delete{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+
+}
+
+.delete-button{
+    cursor: pointer;
+}
