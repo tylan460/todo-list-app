@@ -31,6 +31,7 @@ body{
     justify-content: space-between;
     border-color: blue;
     border-style: solid;
+    width: 80%;
 
 
 }
@@ -42,4 +43,16 @@ body{
 .search-bar{
     border: none;
     flex: 1;
+    
+    
+
+}
+
+.task-list{
+    border-color: blue;
+    max-height: 60%;
+    overflow-y: auto;
+    width: 80%;
+
+
 }
